@@ -1,0 +1,464 @@
+^
+LblLngPack
+-1
+UniverzalSoft.com
+*
+ChkTex
+ 0
+Teksture
+Koristi "deforming" Teksture
+*
+CmdToTex
+ 2
+Sacuvaj
+Kopiraj ucitanu teksturu u folder sa teksturama
+*
+CmdLoad
+ 2
+Ucitaj
+Ucitaj teksturu (sa bilo kog drajva)
+°
+File
+ 2
+Ime teksture
+^
+CmdDLOK
+ 0
+U redu
+*
+CmdToTex
+ 0
+Sacuvaj
+Kopiraj ucitanu teksturu u folder sa teksturama
+*
+CmdLoad
+ 0
+Ucitaj
+Ucitaj teksturu (sa bilo kog drajva)
+°
+File
+ 0
+Ime teksture
+^
+Label1
+-1
+Slika
+°
+ImgPrev
+ 0
+Prikaz
+°
+ImgPrev
+ 2
+Prikaz
+#3
+CboGrStyle
+ 0
+Kruzno
+Horizontalno
+Vertikalno
+
+*
+CmdSwapColors
+ 0
+<->
+Zameni boje
+*
+OptTab0
+ 3
+Providno
+Nevidljivi font i normalne ivice
+*
+OptTab0
+ 2
+Sareno
+Sareni font
+*
+OptTab0
+ 1
+Jednobojno
+Jednobojni font
+*
+OptTab0
+ 0
+Teksture
+Popuni font teksturom
+°
+Text1
+-1
+Upisi tekst ovde
+°
+LMBAlign
+ 0
+Poravnaj ulevo
+*
+LMBStytle
+ 0
+B
+Podebljano
+*
+LMBStytle
+ 1
+K
+Kursiv
+*
+LMBStytle
+ 2
+U
+Podvuceno
+°
+LMBAlign
+ 1
+Centriraj
+°
+LMBAlign
+ 2
+Poravnaj udesno
+°
+LMBAlign
+ 3
+Odredi "rucno" poziciju teksta
+*
+ChkLight
+-1
+Senka
+Ukljuci\Iskljkuci senku
+*
+ChkReal
+-1
+Realnost
+"realistic" efekat on/off
+^
+LblStrenght
+-1
+Pojacano
+^
+LblDistance
+-1
+Distanca
+*
+CmdHover
+-1
+Senka
+Senka zavisna od prozora
+^
+CmdShadow
+-1
+Senka
+^
+CmdRedraw
+-1
+Ponisti sve
+^
+Frame7
+-1
+Deformisi
+^
+CmdBend
+ 1
+Savi Verticalno
+^
+CmdBend
+ 0
+Savi Horizentalno
+^
+Frame6
+-1
+Crtanje
+^
+CmdPoint
+-1
+Tacka
+*
+CmdLine
+-1
+Linija
+Linija
+*
+CmdBox
+-1
+Box
+Box
+*
+CmdPip
+-1
+Odredi boju
+Pipeta
+#4
+CboFX
+-1
+Monohrom
+Blur
+DePixel
+Negativ
+
+^
+Label5
+-1
+Filteri
+*
+ChkStretch
+-1
+Razvuci
+Razvuci teksturu u velicinu logo-a
+*
+CmdBackground
+-1
+Ucitaj
+Ucitaj sliku
+*
+ChkShrink
+-1
+Suzi
+Suzi teksturu u velicinu logo-a
+*
+ChkTile
+-1
+Rasporedi
+Rasporedi slike u logo
+*
+CmdClearBack
+-1
+Izbrisi
+Onemoguci teksturu
+^
+CmdBackcolor
+-1
+Boja
+*
+OptTab0
+ 10
+Sareno
+Sarena pozadina
+*
+OptTab0
+ 9
+Jednobojno
+Jednobojna pozadina
+*
+OptTab0
+ 8
+slika
+Odredi sliku za pozadinu
+#3
+CboGrStyle
+ 2
+Kruzno
+Horizontalno
+Vertikalno
+
+*
+CmdSwapColors
+ 4
+<->
+Zameni boje
+*
+ChkGlow
+-1
+Glow
+Kreiraj "glowing" ivice
+°
+TxtBordersize
+-1
+Velicina ivica
+*
+ChkBorder
+-1
+Ivice
+Ivice oko fonta
+*
+OptTab0
+ 4
+Teksture
+Popuni logo teksturom
+*
+OptTab0
+ 5
+Jednobojno
+Jednobojni font
+*
+OptTab0
+ 6
+Sareno
+Sareni font
+*
+OptTab0
+ 7
+Bleda ivica
+Izbledi ivicu izmedju logo-a i pozadine
+#3
+CboGrStyle
+ 1
+Kruzno
+Horizontalno
+Vertikalno
+
+*
+CmdSwapColors
+ 2
+<->
+Zameni boje
+*
+ChkTex
+ 1
+Teksture
+Koristi "deforming" Teksture
+°
+File
+ 1
+Ime teksture
+*
+CmdLoad
+ 1
+Ucitaj
+Ucitaj teksturu (sa bilo kog drajva)
+*
+CmdToTex
+ 1
+Sacuvaj
+Kopiraj ucitanu teksturu u folder sa teksturama
+^
+CmdDLOK
+ 1
+U redu
+°
+File
+ 3
+Ime teksture
+*
+CmdLoad
+ 3
+Ucitaj
+Ucitaj teksturu (sa bilo kog drajva)
+*
+CmdToTex
+ 3
+Sacuvaj
+Kopiraj ucitanu teksturu u folder sa teksturama
+°
+ImgPrev
+ 3
+Prikaz
+°
+ImgPrev
+ 1
+Prikaz
+^
+Label8
+-1
+Slika
+*
+ChkEmEnBox
+-1
+Box
+Box ili kvadrat
+*
+ChkEmbosFont
+-1
+Zaokruzi
+Zaokruzi font
+°
+TxtEmEn
+-1
+Udalji od fonta
+*
+ChkEngraveFont
+-1
+Urezi
+Urezi font
+^
+ChkInvert
+-1
+Zameni
+*
+ChkMirror
+-1
+Ogledalo
+Izokreni font (kao odraz u ogledalu)
+*
+ChkAlpha
+-1
+Izbledi
+Providno
+*
+ChkAlias
+-1
+Omeksaj
+Meksi font
+°
+TxtAlpha
+-1
+Providnost u %
+*
+CmdClipboard
+ 0
+Kopiraj u klipboard
+Kopiraj LOGO u Klipboard
+°
+TxtSizeY
+-1
+Postavi Verticalno
+°
+TxtSizeX
+-1
+Postavi Horizontalno
+^
+Label3
+-1
+Vel. X
+^
+Label4
+-1
+Vel. Y
+~4
+TabChoice
+-1
+Prednja strana
+
+Ivice
+
+Pozadina
+
+Crtaj
+
+*
+LblErrLoad
+-1
+Broj slike koja nedostaje
+Greska pri ucitavanju slike
+^
+LblWarning
+-1
+Paznja
+^
+Label2
+-1
+Kalkulacija nove slike
+^
+MnuFile
+-1
+Fajl
+^
+MnuLoad
+-1
+Ucitaj LMF
+^
+MnuSaveLMF
+-1
+Sacuvaj LMF
+^
+MnuSavePic
+-1
+Sacuvaj LOGO
+^
+MnuLanguage
+-1
+Jezik
+^
+MnuLng
+ 0
+Engleski
+^
+MnuAbout
+-1
+O programu
