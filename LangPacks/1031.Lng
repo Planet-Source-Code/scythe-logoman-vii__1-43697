@@ -1,0 +1,475 @@
+^
+LblLngPack
+-1
+Scythe
+*
+ChkTex
+ 0
+Textur
+Benütze verformende Texturen
+*
+CmdToTex
+ 2
+Speichern
+Speichert das Bild
+*
+CmdLoad
+ 2
+Laden
+Textur laden
+°
+File
+ 2
+Namen der Texturen
+^
+CmdDLOK
+ 0
+OK
+*
+CmdToTex
+ 0
+Speichern
+Speichert das Bild
+*
+CmdLoad
+ 0
+Laden
+Textur laden
+°
+File
+ 0
+Namen der Texturen
+*
+Label1
+-1
+Bild
+Hintergrundbild Laden
+°
+ImgPrev
+ 0
+Texturen Vorschau
+°
+ImgPrev
+ 2
+Texturen Vorschau
+#3
+CboGrStyle
+ 0
+Rund
+Horizontal
+Vertikal
+
+*
+CmdSwapColors
+ 0
+<->
+Farben tauschen
+*
+OptTab0
+ 3
+Transparent
+Unsichtbare Schrift aber normaler Rahmen
+*
+OptTab0
+ 2
+Gradient
+Mehrfarbige Schrift
+*
+OptTab0
+ 1
+Enfarbig
+Einfarbige Schrift
+*
+OptTab0
+ 0
+Textur
+Lege Bilder auf den Font
+°
+Text1
+-1
+Text hier eingeben
+°
+LMBAlign
+ 0
+Rechtsbündig
+*
+LMBStytle
+ 0
+F
+Fett
+*
+LMBStytle
+ 1
+K
+Kursiv
+*
+LMBStytle
+ 2
+U
+Unterstrichen
+°
+LMBAlign
+ 1
+Zentriert
+°
+LMBAlign
+ 2
+Rechtsbündig
+°
+LMBAlign
+ 3
+Position selbst wählen
+*
+ChkLight
+-1
+Beleuchtung
+Setzen sie einen Strahler hinter ihren Font
+^
+ChkReal
+-1
+Realismus
+^
+LblStrenght
+-1
+Stärke
+^
+LblDistance
+-1
+Entfernung
+*
+CmdHover
+-1
+Schweben
+Windows nennt dies Schatten
+^
+CmdShadow
+-1
+Schatten
+*
+CmdRedraw
+-1
+Alles Neu
+Alle Änderungen rückgängig machen
+^
+Frame7
+-1
+Verformen
+*
+CmdBend
+ 1
+Biegen Vertikal
+Schriftzug biegen
+*
+CmdBend
+ 0
+Biegen Horizontal
+Schriftzug biegen
+^
+Frame6
+-1
+Zeichen
+*
+CmdPoint
+-1
+Punkt
+Einzelen Punkte zeichnen
+*
+CmdLine
+-1
+Linie
+Linien ziehen
+*
+CmdBox
+-1
+Kasten
+Gefüllten kasten zeichnen
+*
+CmdPip
+-1
+Pipette
+Zeichenfarbe aus Bild wählen
+#4
+CboFX
+-1
+Monochrome
+Weich
+DePixel
+Negativ
+
+*
+Label5
+-1
+Filter
+Spezialeffekte
+*
+ChkStretch
+-1
+Ziehen
+Hintergrundbild auf Logogröße ziehen
+*
+CmdBackground
+-1
+Laden
+Textur laden
+*
+ChkShrink
+-1
+Verkleinern
+Hintergrundbild auf Logogröße verkleinern
+*
+ChkTile
+-1
+Kacheln
+Hintergrundbild über Logo Kacheln
+*
+CmdClearBack
+-1
+Aus
+Hintergrundbild ausschalten
+*
+CmdBackcolor
+-1
+Farbe
+Hintergrundfarbe wählen
+*
+OptTab0
+ 10
+Gradient
+Mehrfarbiger Hintergrund
+*
+OptTab0
+ 9
+Einfarbig
+Einfarbiger Hintergrund
+*
+OptTab0
+ 8
+Bild
+Hintergrundbild
+#3
+CboGrStyle
+ 2
+Rund
+Horizontal
+Vertikal
+
+*
+CmdSwapColors
+ 4
+<->
+Farben tauschen
+*
+ChkGlow
+-1
+Glow
+Glühender Rahmen
+°
+TxtBordersize
+-1
+Größe des Rahmens
+*
+ChkBorder
+-1
+Rahmen
+Rahmen um die Schrift ziehen
+*
+OptTab0
+ 4
+Textur
+Lege Bilder über den Font
+*
+OptTab0
+ 5
+Einfarbig
+Einfarbiger Font
+*
+OptTab0
+ 6
+Gradient
+Mehrfarbiger Font
+*
+OptTab0
+ 7
+Übergang
+Bildet einen Übergang zwischen Hitergrund und Schrift
+#3
+CboGrStyle
+ 1
+Rund
+Horizontal
+Vertikal
+
+*
+CmdSwapColors
+ 2
+<->
+Farben tauschen
+*
+ChkTex
+ 1
+Textur
+Benütze verformende Texturen
+°
+File
+ 1
+Namen der Texturen
+*
+CmdLoad
+ 1
+Laden
+Textur laden
+*
+CmdToTex
+ 1
+Speichern
+Speichert das Bild
+^
+CmdDLOK
+ 1
+OK
+°
+File
+ 3
+Namen der Texturen
+*
+CmdLoad
+ 3
+Laden
+Textur laden
+*
+CmdToTex
+ 3
+Speichern
+Speichert das Bild
+°
+ImgPrev
+ 3
+Texturen Vorschau
+°
+ImgPrev
+ 1
+Texturen Vorschau
+*
+Label8
+-1
+Bild
+Hintergrundbild Laden
+*
+ChkEmEnBox
+-1
+Kasten
+Gefüllten kasten zeichnen
+*
+ChkEmbosFont
+-1
+Embos
+Font hervorheben
+°
+TxtEmEn
+-1
+Entfernung vom Font
+*
+ChkEngraveFont
+-1
+Engrave
+Font einstanzen
+*
+ChkInvert
+-1
+Invertieren
+Invertiert den Hintergrund durch den Text
+*
+ChkMirror
+-1
+Spiegeln
+Spiegelt den gesammten Text
+*
+ChkAlpha
+-1
+Transparents
+Tranparente Schrift erstellen
+*
+ChkAlias
+-1
+Weichzeichnen
+Kanten Runden
+°
+TxtAlpha
+-1
+Transparents in %
+*
+CmdClipboard
+ 0
+Zwischenablage
+Kopiert das Logo in die Zwischenablage
+°
+TxtSizeY
+-1
+Logo Größe vertikal
+°
+TxtSizeX
+-1
+Logo Größe horizontal
+*
+Label3
+-1
+Größe X
+Logo Größe horizontal
+*
+Label4
+-1
+Größe Y
+Logo Größe vertikal
+~4
+TabChoice
+-1
+Vordergrund
+
+Rahmen
+
+Hintergrund
+
+Zeichnen
+Logo nachbearbeiten
+*
+LblErrLoad
+-1
+Anzahl der fehlenden Bilder
+Fehler beim laden der Texturen
+*
+LblWarning
+-1
+Achtung alle Änderunge gehen verloren !
+Wollen sie weitermachen ?
+^
+Label2
+-1
+Errechne neues Bild
+^
+MnuFile
+-1
+Datei
+^
+MnuLoad
+-1
+LMF Laden
+^
+MnuSaveLMF
+-1
+LMF Speichern
+^
+MnuSavePic
+-1
+Bild Speichern
+^
+MnuLanguage
+-1
+Sprache
+^
+MnuLng
+ 0
+English
+^
+MnuAbout
+-1
+Über

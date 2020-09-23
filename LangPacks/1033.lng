@@ -1,0 +1,464 @@
+^
+LblLngPack
+-1
+Scythe
+*
+ChkTex
+ 0
+Texture
+Use deforming Textures
+*
+CmdToTex
+ 2
+Save
+Copy loaded Texture to Texturepath
+*
+CmdLoad
+ 2
+Load
+Load Texture from any Drive
+°
+File
+ 2
+Texturenames
+^
+CmdDLOK
+ 0
+OK
+*
+CmdToTex
+ 0
+Save
+Copy loaded Texture to Texturepath
+*
+CmdLoad
+ 0
+Load
+Load Texture from any Drive
+°
+File
+ 0
+Texturenames
+^
+Label1
+-1
+Picture
+°
+ImgPrev
+ 0
+Preview
+°
+ImgPrev
+ 2
+Preview
+#3
+CboGrStyle
+ 0
+Circular
+Horizontal
+Vertikal
+
+*
+CmdSwapColors
+ 0
+<->
+Swap Colors
+*
+OptTab0
+ 3
+Transparent
+Invisible font and normal border
+*
+OptTab0
+ 2
+Gradient
+Multicolor Fonts
+*
+OptTab0
+ 1
+Solid Color
+Single Color Font
+*
+OptTab0
+ 0
+Texture
+Use picture Overlays
+°
+Text1
+-1
+Type Text in here
+°
+LMBAlign
+ 0
+Align Left
+*
+LMBStytle
+ 0
+B
+Bold
+*
+LMBStytle
+ 1
+K
+Kursiv
+*
+LMBStytle
+ 2
+U
+Underline
+°
+LMBAlign
+ 1
+Align Zenter
+°
+LMBAlign
+ 2
+Align Right
+°
+LMBAlign
+ 3
+Choose ur textposition
+*
+ChkLight
+-1
+Backlight
+Turn Backgroundlight ON/OFF
+*
+ChkReal
+-1
+Realism
+Turn realistic lighteffect on/off
+^
+LblStrenght
+-1
+Strenght
+^
+LblDistance
+-1
+Distance
+*
+CmdHover
+-1
+Hover
+Windows calls this Shadow
+^
+CmdShadow
+-1
+Shadow
+^
+CmdRedraw
+-1
+Undo All
+^
+Frame7
+-1
+Deform
+^
+CmdBend
+ 1
+Bend Vertical
+^
+CmdBend
+ 0
+Bend Horizental
+^
+Frame6
+-1
+Freehand
+^
+CmdPoint
+-1
+Point
+*
+CmdLine
+-1
+Line
+Line
+*
+CmdBox
+-1
+Box
+Box
+*
+CmdPip
+-1
+Pic Color
+Pipett
+#4
+CboFX
+-1
+Monochrome
+Blur
+DePixel
+Negative
+
+^
+Label5
+-1
+Filters
+*
+ChkStretch
+-1
+Stretch
+Stretch Picture to Logosize
+*
+CmdBackground
+-1
+Load
+Load a Picture
+*
+ChkShrink
+-1
+Shrink
+Shrink Picture to Logosize
+*
+ChkTile
+-1
+Tile
+Tile Picture over Logo
+*
+CmdClearBack
+-1
+Clear
+Disable Picture
+^
+CmdBackcolor
+-1
+Color
+*
+OptTab0
+ 10
+Gradient
+Multicolor Background
+*
+OptTab0
+ 9
+Solid Color
+Single Color Background
+*
+OptTab0
+ 8
+Picture
+Use a Backgoundpicture
+#3
+CboGrStyle
+ 2
+Circular
+Horizontal
+Vertikal
+
+*
+CmdSwapColors
+ 4
+<->
+Swap Colors
+*
+ChkGlow
+-1
+Glow
+Create glowing Borders
+°
+TxtBordersize
+-1
+Size of the Border
+*
+ChkBorder
+-1
+Border
+Border arround the Font
+*
+OptTab0
+ 4
+Texture
+Use picture Overlays
+*
+OptTab0
+ 5
+Solid Color
+Single Color Font
+*
+OptTab0
+ 6
+Gradient
+Multicolor Fonts
+*
+OptTab0
+ 7
+Fade
+Fade between Font and Background
+#3
+CboGrStyle
+ 1
+Circular
+Horizontal
+Vertikal
+
+*
+CmdSwapColors
+ 2
+<->
+Swap Colors
+*
+ChkTex
+ 1
+Texture
+Use deforming Textures
+°
+File
+ 1
+Texturenames
+*
+CmdLoad
+ 1
+Load
+Load Texture from any Drive
+*
+CmdToTex
+ 1
+Save
+Copy loaded Texture to Texturepath
+^
+CmdDLOK
+ 1
+OK
+°
+File
+ 3
+Texturenames
+*
+CmdLoad
+ 3
+Load
+Load Texture from any Drive
+*
+CmdToTex
+ 3
+Save
+Copy loaded Texture to Texturepath
+°
+ImgPrev
+ 3
+Preview
+°
+ImgPrev
+ 1
+Preview
+^
+Label8
+-1
+Picture
+*
+ChkEmEnBox
+-1
+Box
+Box or Outline
+*
+ChkEmbosFont
+-1
+Embos
+Embos the Font
+°
+TxtEmEn
+-1
+Points away from Font
+*
+ChkEngraveFont
+-1
+Engrave
+Engrave the Font
+^
+ChkInvert
+-1
+Invert
+*
+ChkMirror
+-1
+Mirror
+Create Mirror Fonts
+*
+ChkAlpha
+-1
+Alpha Blend
+Transparency
+*
+ChkAlias
+-1
+Anti Alias
+Softter Fonts
+°
+TxtAlpha
+-1
+Transparency in %
+*
+CmdClipboard
+ 0
+Copy to Clipboard
+Copy Logo to Clipboard
+°
+TxtSizeY
+-1
+Vertical Logosize
+°
+TxtSizeX
+-1
+Horizontal Logosize
+^
+Label3
+-1
+Size X
+^
+Label4
+-1
+Size Y
+~4
+TabChoice
+-1
+Foreground
+
+Border
+
+Background
+
+Draw
+
+*
+LblErrLoad
+-1
+Number of missing Pictures
+Errors loading Textures
+^
+LblWarning
+-1
+Warning
+^
+Label2
+-1
+Calculating new Image
+^
+MnuFile
+-1
+File
+^
+MnuLoad
+-1
+Load LMF
+^
+MnuSaveLMF
+-1
+Save LMF
+^
+MnuSavePic
+-1
+Save Picture
+^
+MnuLanguage
+-1
+Language
+^
+MnuLng
+ 0
+English
+^
+MnuAbout
+-1
+About
